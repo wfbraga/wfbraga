@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently gaining a deeper understanding of Rails 7
+I want to share with your something about what I am up to nowadays.
 
 - 🔭 I’m currently working on "My Court". An app to managing sports complexes.
 - 🌱 I am currently gaining a deeper understanding of Rails 7.
