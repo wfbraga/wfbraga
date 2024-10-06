@@ -2,7 +2,7 @@
 
 I want to share with your something about what I am up to nowadays.
 
-- 🔭 I’m currently working on "My Court". An app to managing sports complexes.
+- 🔭 I’m currently working on [brushop]. Creating APIs and intgrations with SAP B1.
 - 🌱 I am currently gaining a deeper understanding of Rails 7.
 - 👯 I’m looking to collaborate on RUby on Rails projects
 - 🤔 I’m looking for help with CI/CD
@@ -56,4 +56,4 @@ I want to share with your something about what I am up to nowadays.
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/wfbraga)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&labelColor=%230A66C2&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/arthurgalanti/)](https://www.linkedin.com/in/bragawagner/)
 
-
+[brushop]: <https://www.brushop.com.py/>
