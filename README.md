@@ -11,8 +11,6 @@ I want to share with your something about what I am up to nowadays.
 - ⚡ Fun fact: I started as a developer at 35 years old and my past experiences helped me to see things through clients real needs.
   # Eu sou Wagner Braga!
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-alpha-taupe.vercel.app/api?username=wfbraga&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/wfbraga/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats-alpha-taupe.vercel.app/api?username=wfbraga&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/wfbraga/github-readme-stats#gh-light-mode-only)
 #### Software Developer, currently working on web applications and web APIs. I also have experience as a systems analyst and pre-sales engineer, designing cybersecurity and cloud projects.
 
 ## Now working with:
