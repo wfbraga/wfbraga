@@ -20,7 +20,6 @@ I want to share with your something about what I am up to nowadays.
 ![Csharp](https://img.shields.io/badge/CSharp-%23934B8E?style=flat-square&labelColor=%23414141&logo=csharp&logoColor=white)
 ![dotNet](https://img.shields.io/badge/.NET-%23631F74?style=flat-square&labelColor=%23414141&logo=dotnet&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)
 
